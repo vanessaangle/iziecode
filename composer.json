@@ -1,0 +1,19 @@
+{
+    "name": "iziecode/iziecode",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mafia Bola",
+            "email": "info@mafiabola.com"
+        }
+    ],
+    "description": "Code ? lets make izie",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "IzieCode\\IzieCode\\" : "src/"
+        }
+    }
+}
