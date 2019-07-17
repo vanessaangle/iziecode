@@ -1,6 +1,7 @@
 {
     "name": "iziecode/iziecode",
     "type": "library",
+    "keywords": ["Ezie","Code"],
     "license": "MIT",
     "authors": [
         {
